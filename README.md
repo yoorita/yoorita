@@ -1,4 +1,4 @@
-<img width="100%" align="center" src="assets/cover.gif"/>
+<img width="100%" align="center" src="assets/cover_img.gif"/>
 
 ---
 
