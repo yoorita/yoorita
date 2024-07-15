@@ -1,8 +1,9 @@
-## Salute :v:
+## Intro :v:
 
 :round_pushpin: **Passionate developer looking for challenges and new knowledge**
 
-#### Skills:
+
+## Skills:
 <table>
   <tr>
     <td>Python</td>
