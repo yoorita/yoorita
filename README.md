@@ -1,6 +1,6 @@
 ## Salute :v:
 
-:round_pushpin: **Passionate Python developer looking for challenges and new knowledge**
+:round_pushpin: **Passionate developer looking for challenges and new knowledge**
 
 #### Skills:
 <table>
