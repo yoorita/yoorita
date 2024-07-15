@@ -1,7 +1,7 @@
 ## :round_pushpin: Passionate developer looking for challenges and new knowledges
 
 
-### Skills:
+<-- ### Skills:
 <table>
   <tr>
     <td>Python</td>
@@ -18,4 +18,4 @@
     <td>OOP</td>
     <td>Postman</td>
   </tr>
-</table>
+</table> -->
