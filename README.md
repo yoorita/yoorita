@@ -1,8 +1,10 @@
-## Salute
----
+## Salute :v:
+
 :round_pushpin: **Passionate Python developer looking for challenges and new knowledge**
+
 ---
-Skills:
+
+### Skills:
 - Python
 - Django
 - SQL
