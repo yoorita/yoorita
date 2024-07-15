@@ -1,4 +1,4 @@
-## :round_pushpin: Passionate developer looking for challenges and new knowledge
+## :round_pushpin: Passionate developer looking for challenges and new knowledges
 
 
 ### Skills:
