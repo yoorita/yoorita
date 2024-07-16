@@ -4,8 +4,6 @@
     <p><img src="https://img.shields.io/badge/python_developer-new-green?style=for-the-badge&logo=python&logoColor=white"/></p>
     <br/>
     <p>
-        <a href="https://skillicons.dev">
-            <img align="center" src="https://skillicons.dev/icons?i=py,django,linux,mysql,git,postman,html,css" />
-        </a>
+        <img align="center" src="https://skillicons.dev/icons?i=py,django,linux,mysql,git,postman,html,css" />
     </p>
 </div>
