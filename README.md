@@ -2,10 +2,10 @@
     <h2>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">, I'm Rita Lykova</h2>
     <p><b>Obtained master's in Computer and Information Science</b></p>
 <!--     <p><img src="https://img.shields.io/badge/python_developer-new-green?style=for-the-badge&logo=python&logoColor=white"/></p>
-    <br/>
+    <br/>-->
     <p>
         <a href="https://skillicons.dev/" target="_blank">
-            <img align="center" src="https://skillicons.dev/icons?i=py,linux,mysql,git,postman,html,css" />
+            <img align="center" src="https://skillicons.dev/icons?i=go,python,git,postman" />
         </a>
-    </p> -->
+    </p>
 </div>
