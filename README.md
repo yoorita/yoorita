@@ -2,7 +2,7 @@
 
 **Occupation:** Software Developer
 
-**Education:** Master's in Computer and Information Science
+👩🏻‍🎓📚💡 **Education:** Master's in Computer and Information Science
 
 **Stack:**
 <p>
