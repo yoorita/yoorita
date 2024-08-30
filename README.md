@@ -10,11 +10,10 @@
     <p>Master's in Computer and Information Science</p>
 </details>
 
-<details open><summary><b>🚀 Stack</b></summary>
-    <br/>
-    <p>
-        <a href="https://skillicons.dev/" target="_blank">
-            <img align="center" src="https://skillicons.dev/icons?i=go,python,git,postman,html,css" />
-        </a>
-    </p>
-</details>
+<b>🚀 Stack</b>
+<br/>
+<p>
+    <a href="https://skillicons.dev/" target="_blank">
+        <img align="center" src="https://skillicons.dev/icons?i=go,python,git,postman,html,css" />
+    </a>
+</p>
