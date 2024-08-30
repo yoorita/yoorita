@@ -10,7 +10,7 @@
     <p>Master's in Computer and Information Science</p>
 </details>
 
-<details><summary><b>🚀 Stack</b></summary>
+<details open><summary><b>🚀 Stack</b></summary>
     <br/>
     <p>
         <a href="https://skillicons.dev/" target="_blank">
