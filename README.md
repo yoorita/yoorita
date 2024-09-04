@@ -14,6 +14,6 @@
 <br/>
 <p>
     <a href="https://skillicons.dev/" target="_blank">
-        <img align="center" src="https://skillicons.dev/icons?i=go,python,git,postman,html,css" />
+        <img align="center" src="https://skillicons.dev/icons?i=go,git,postman,html,css" />
     </a>
 </p>
