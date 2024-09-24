@@ -1,14 +1,7 @@
 <h2>Welcome to my profile <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h2>
 
-<details><summary><b>💻 Occupation</b></summary>
-    <br/>
-    <p>Software Developer</p>
-</details>
-
-<details><summary><b>👩🏻‍🎓 Education</b></summary>
-    <br/>
-    <p>Master's in Computer and Information Science</p>
-</details>
+<p><b>💻 Occupation: </b> Software Developer</p>
+<p><b>👩🏻‍🎓 Education: </b> Master's in Computer and Information Science</p>
 
 <b>🚀 Stack</b>
 <br/>
