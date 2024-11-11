@@ -2,4 +2,4 @@
 
 - :pushpin: Software developer
 - :bulb: Masters in Computer Science
-- :seedling: Currently switching to Go programming language
+- :seedling: Scripting in Go and Python
