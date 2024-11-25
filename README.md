@@ -2,4 +2,4 @@
 
 - :pushpin: Software developer
 - :bulb: Masters in Computer Science
-- :seedling: Scripting in Go and Python
+- :seedling: Scripting in Python
